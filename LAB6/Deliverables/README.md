@@ -2,6 +2,8 @@
 
 ## Water Utility Billing System
 
+Completed Repo link: - https://github.com/abdulmuheethk-1026/L6_L7_01_water_utility_billing
+
 ### 1. Objective
 
 The objective of this lab is to understand, measure, analyse, and improve code coverage and branch coverage using Python's `pytest` and `coverage` libraries.
